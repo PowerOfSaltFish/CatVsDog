@@ -1,0 +1,4 @@
+*.pth
+data
+qodana.yaml
+.idea
